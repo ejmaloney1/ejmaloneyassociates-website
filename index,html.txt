@@ -1,0 +1,31 @@
+<html>
+
+      <<head>
+	  
+		<TITLE>MC 101</TITLE>
+	  
+	  
+	  
+	  
+	  <body>
+	  
+	  
+	  
+	  <h1>
+	  
+	  <p>Creating my first website</p>
+	  
+	  
+	  
+	  
+	  </h1.
+	  </body>
+	  
+	  
+	  
+	  <?head>
+
+
+
+
+</html>
